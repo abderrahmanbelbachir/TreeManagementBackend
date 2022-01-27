@@ -15,6 +15,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - open your browser on http://localhost:4200/
 
 
+## Database configuration for nestjs
+```
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "root",
+  "password": "",
+  "database": "tree_management",
+  "entities": ["./node/entities/node.entity"],
+  "synchronize": true
+}
+```
+
 ## Video showing some actions on the tree
 
 https://user-images.githubusercontent.com/35449115/151272674-5452aec6-b9ff-45b1-b484-4d9fb973a569.mp4

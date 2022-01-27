@@ -4,7 +4,7 @@
   "port": 3306,
   "username": "root",
   "password": "",
-  "database": "nest_test",
+  "database": "tree_management",
   "entities": ["./node/entities/node.entity"],
   "synchronize": true
 }
