@@ -27,7 +27,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   "entities": ["./node/entities/node.entity"],
   "synchronize": true
 }
+
 ```
+
+`
+// So you need to create a database named tree_management
+`
 
 ## Video showing some actions on the tree
 
