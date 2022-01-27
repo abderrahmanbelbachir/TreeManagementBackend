@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project setup
 - git clone https://github.com/abderrahmanbelbachir/TreeManagementBackend.git
-- cd frozenlogic
+- cd TreeManagementBackend
 - npm install
 - npm run start
 
@@ -12,6 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - cd TreeManagementFront
 - npm install
 - ng serve
+- open your browser on http://localhost:4200/
 
 
 ## Video showing some actions on the tree
